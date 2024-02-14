@@ -41,9 +41,9 @@ Your CA policy must:
 
 - enforce MFA
 
-- include the Microsoft Azure Management app ID (797f4846-ba00-4fd7-ba43-dac1f8f63013) or all apps
+- include the Windows Azure Service Management API app ID (797f4846-ba00-4fd7-ba43-dac1f8f63013) or all apps
 
-- not exclude the Microsoft Azure Management app ID
+- not exclude the Windows Azure Service Management API app ID
 
 **Microsoft Entra ID P1** customers can use Microsoft Entra CA to prompt users for multifactor authentication during certain scenarios or events to fit your business requirements. Other licenses that include this functionality:  Enterprise Mobility + Security E3, Microsoft 365 F1, and Microsoft 365 E3.
 
